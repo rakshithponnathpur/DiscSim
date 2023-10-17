@@ -6,6 +6,10 @@ An important goal of CEGIS is to improve the quality of administrative data coll
 
 Often, it is not clear what re-sampling strategy should be used to obtain the most accurate and reliable discrepancy scores. The goal of this project is to create a simulator to predict discrepancy scores, and the statistical accuracy of the discrepancy scores, for different re-sampling strategies. This repository will be populated with python scripts and jupter notebooks to implement the simulator. However, no data will be made public as it is sensitive data collected by state governments in India.
 
+Useful readings: 
+1. Binomial random variable: https://online.stat.psu.edu/stat800/book/export/html/658#:~:text=A%20binomial%20random%20variable%20counts,(a%20fixed%20sample%20size) 
+2. Cumulative distribution function: https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/distribution-functions/cumulative-distribution-function.html#:~:text=Definition,P%20%5B%20X%20%E2%89%A4%20x%20%5D%20. 
+
 Glossary
 1. Subordinate: collector of original samples
 2. Supervisor: collector of secondary samples (used to calculate discrepancy score)
