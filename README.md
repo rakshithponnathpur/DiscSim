@@ -9,6 +9,7 @@ Often, it is not clear what re-sampling strategy should be used to obtain the mo
 Useful readings: 
 1. Binomial random variable: https://online.stat.psu.edu/stat800/book/export/html/658#:~:text=A%20binomial%20random%20variable%20counts,(a%20fixed%20sample%20size) 
 2. Cumulative distribution function: https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/distribution-functions/cumulative-distribution-function.html#:~:text=Definition,P%20%5B%20X%20%E2%89%A4%20x%20%5D%20. 
+<RP Checking if my edits are getting committed>
 
 Glossary
 1. Subordinate: collector of original samples
