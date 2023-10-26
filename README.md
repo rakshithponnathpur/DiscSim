@@ -11,6 +11,8 @@ Useful readings:
 2. Cumulative distribution function: https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/distribution-functions/cumulative-distribution-function.html#:~:text=Definition,P%20%5B%20X%20%E2%89%A4%20x%20%5D%20. 
 <RP Checking if my edits are getting committed>
 <RP 6:20 PM 10/17/2023 edits>
+<RP 7:50 PM 10/26/2023 edits>
+
 
 Glossary
 1. Subordinate: collector of original samples
